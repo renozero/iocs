@@ -1,2 +1,3 @@
 # Auto-generated oleh IOC Manager. Jangan edit manual.
-# Total: 0
+# Total: 1
+google.com
