@@ -1,4 +1,3 @@
 # Auto-generated oleh IOC Manager. Jangan edit manual kecuali darurat.
 # Total: 2
-1.1.1.1
-8.8.8.8
+
