@@ -1,3 +1,8 @@
-# IOC Manager
-
-
+# Auto-generated oleh IOC Manager. Jangan edit manual.
+# Total: 6
+1.1.1.1
+185.220.15.1
+185.220.5.1
+185.220.5.2
+192.168.200.101
+8.8.8.8
