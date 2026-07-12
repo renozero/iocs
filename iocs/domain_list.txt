@@ -1,4 +1,1 @@
-# Auto-generated oleh IOC Manager. Jangan edit manual.
-# Total: 2
-evil.domain.com
-google.com
+# Auto-generated oleh IOC Manager
