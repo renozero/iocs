@@ -1,4 +1,4 @@
 # Auto-generated oleh IOC Manager. Jangan edit manual kecuali darurat.
-# Total: 
+# Total: 2
 114.10.135.71
-
+8.229.181.119
