@@ -1,5 +1,5 @@
 # Auto-generated oleh IOC Manager. Jangan edit manual kecuali darurat.
-# Total: 16
+# Total: 17
 103.160.212.75
 112.103.75.60
 114.10.135.71
@@ -16,3 +16,4 @@
 34.92.60.151
 35.190.179.122
 8.229.181.119
+94.154.46.244
